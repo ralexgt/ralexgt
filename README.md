@@ -4,4 +4,4 @@ I am a Software Engineering student, passionate about Data Engineering. Looking 
 
 🛠️ Check out my dev environment starting point [dev-env](https://github.com/ralexgt/dev-env)
 
-📫 Check out my LinkedIn 🫣🫣 [linkedin](https://www.linkedin.com/in/alex-rares-roman)
+📫 Check out my LinkedIn [linkedin](https://www.linkedin.com/in/alex-rares-roman)
