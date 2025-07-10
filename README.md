@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Engineer, passionate about Data Engineering and DevOps.
+Software Engineer, intrested in Data Engineering and DevOps.
 
 🛠️ Check out my dev environment starting point [here](https://github.com/ralexgt/dev-env)
 
