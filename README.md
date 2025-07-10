@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Engineering student, passionate about Data Engineering. Looking to get as good as possible at my craft. 😁
+I am a Software Engineer, passionate about Data Engineering and DevOps.
 
 🛠️ Check out my dev environment starting point [here](https://github.com/ralexgt/dev-env)
 
